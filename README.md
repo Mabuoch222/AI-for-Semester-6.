@@ -1,0 +1,2 @@
+# AI-for-Semester-6.
+ARTIFICIAL INTELLIGENCE
